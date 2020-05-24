@@ -29,6 +29,11 @@ load.
 ***YOU DO NOT WANT THESE TESTS TO PASS!***
 
 
+### take action
+* fix the code
+* scale up hardware resources
+* decide to live with your findings!
+
 ### setup
 ``` 
 pip3 install locust
