@@ -34,7 +34,6 @@ load.
 pip3 install locust
 ```
 
-### usage
 
 
 
